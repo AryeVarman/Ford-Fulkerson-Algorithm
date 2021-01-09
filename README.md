@@ -27,3 +27,5 @@ and a decimals point, the decimals point are allowed only as part of a real numb
 white space (space Tab or 'Enter').
 11.5) parallel edges are not allowed and fail the program
 11.6) loop edges are not allowed and fail the program.
+
+*** AN EXAMPLE FOR A LEGAL INPUT FILE IS: "input1.txt" ***
